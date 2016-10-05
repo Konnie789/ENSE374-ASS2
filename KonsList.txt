@@ -1,0 +1,7 @@
+- I am an elderly citizen, and I have trouble with commuting frequently. I would like for a way for my prescriptions to be ready once I arrive at my pharmacy.
+
+- As a pharmacist, I see a large volume of prescriptions during the day, which results in longer wait times for our patients. I would like for a way to see the list of prescriptions
+so that they can be attended to as quickly as possible. 
+
+- I am a person who is very new to priscriptions and i am not completely sure what the drug that i will be taking actually does. I would like to be able to search up drugs and 
+be able to read about the drug's information.
