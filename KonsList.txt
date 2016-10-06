@@ -5,3 +5,8 @@ so that they can be attended to as quickly as possible.
 
 - I am a person who is very new to priscriptions and i am not completely sure what the drug that i will be taking actually does. I would like to be able to search up drugs and 
 be able to read about the drug's information.
+
+- I have been prescribed the same drug for a number of years, so I would like the program to resend my priscription everytime i need a refill, so i dont have to bring my form 
+all the time
+
+- I am moving two a new city, and i would like to send my new pharmacy my new information.
